@@ -18,5 +18,43 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
     <script src="/js/all.min.js"></script>
+    <script type="text/javascript">
+      function getFormDataString(formEl) {
+        var formData = new FormData(formEl),
+            data = [];
+
+        for (var keyValue of formData) {
+          data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
+        }
+
+        return data.join("&");
+      }
+
+      function go(e) {
+          e.preventDefault();
+
+          var formEl = document.getElementById("contact-form");
+          console.log(getFormDataString(formEl));
+
+          var request = new XMLHttpRequest();
+
+          request.addEventListener("load", function () {
+              console.log(request.status);
+              if (request.status === 200) { // CloudCannon redirects on success
+                $('#contact-form').find('input[type=text], input[type=email], textarea').val('');
+                $('.contact-form-result').text("Mensagem enviada com sucesso!");
+                $('.contact-form-result').show();
+              }
+          });
+
+          request.open(formEl.method, formEl.action);
+          request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+          request.send(getFormDataString(formEl));
+
+      }
+
+
+
+    </script>
 </body>
 </html>
