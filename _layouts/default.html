@@ -41,7 +41,7 @@
           request.addEventListener("load", function () {
               console.log(request.status);
               if (request.status === 200) { // CloudCannon redirects on success
-                $('#contact-form').find('input[type=text], input[type=email], textarea').val('');
+                $('#contact-form').find('input[type=text], input[type=tel], input[type=email], textarea').val('');
                 $('.contact-form-result').text("Mensagem enviada com sucesso!");
                 $('.contact-form-result').show();
               }
