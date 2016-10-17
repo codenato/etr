@@ -3,10 +3,11 @@
 .navbar-brand {
     padding: 0;
     line-height: 70px;
+    margin-top: 6px;
     > img {
         display: inline-block;
         max-width: 220px;
-        max-height: 65px;
+        max-height: 85px;
         @include breakpoint(lsmall) {
             max-width: none;
         }
@@ -16,11 +17,14 @@
 .navbar {
     margin-bottom: 0;
     border: none;
+    height: 100px;
 }
 
 .navbar-default .navbar-nav>li>a,
 .navbar-default .navbar-nav>li>a:focus {
     color: $colorBase;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .navbar-default .navbar-nav>li>a:hover {

@@ -3,13 +3,13 @@ title: Espaço Telhas Rondon | Uberlândia
 description: "Espaço Telhas Rondon"
 baseurl: "/etr" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: img/logo.png
+logo_url: img/logo.svg
 
 # Hero
 hero:
     hero_img: header-espacotelha.jpg
     hero_title: Espaço Telhas Rondon
-    hero_description: Coloque um breve slogan aqui.
+    hero_description: Especialista em Coberturas
 
 # Contact form
 api_token: # Enter API token here
@@ -21,8 +21,8 @@ contact:
     address: Av. Rondon Pacheco, 3150, Santa Maria, Uberlândia-MG
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
+monday_friday: 8:00 – 18:00
+saturday: 8:00 – 12:00
 sunday: 10:00 – 15:00
 
 # Testimonials
@@ -33,7 +33,7 @@ testimonials:
 map:
     zoom: 17
     address: Av. Rondon Pacheco, 3150, Santa Maria, Uberlândia-MG, Brasil
-    address_details: svg/min/logo.svg
+    address_details: img/logo-map.svg
 
 # Social settings
 facebook: http://facebook.com/Espaço-Telhas-Rondon-479104808834152
