@@ -9,7 +9,7 @@ logo_url: img/logo.svg
 hero:
     hero_img: header-espacotelha.jpg
     hero_title: Espaço Telhas Rondon
-    hero_description: Especialista em Coberturas
+    hero_description: Soluções para Telhados
 
 # Contact form
 api_token: # Enter API token here
