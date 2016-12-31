@@ -25,6 +25,7 @@
     color: $colorBase;
     padding-top: 40px;
     padding-bottom: 40px;
+    text-transform: uppercase;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -37,6 +38,7 @@
 .navbar-default .navbar-nav>.active>a:focus {
     color: $white;
     background: darken($colorPrimary, 5%);
+    text-transform: uppercase;
 }
 
 .navbar-default .navbar-toggle {
