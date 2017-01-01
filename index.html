@@ -200,9 +200,9 @@ layout: default
     <h2 class="section-title">Galeria</h2>
 
     {% for images in site.data.gallery %}
-        <a href="/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
+        <a href="/img/gallery/large/{{ images.large_image }}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
-                <img src="/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
+                <img src="/img/gallery/thumb/{{ images.thumb_image }}" alt="{{ images.alt }}">
             </div>
             <div class="expandable-box-bottom">
                 <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
