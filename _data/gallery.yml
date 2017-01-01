@@ -7,8 +7,8 @@
 - thumb_image: /uploads/gallery/thumbs/Casa10.jpg
   large_image: /uploads/gallery/Casa10.jpg
   alt: Telhas Cinza
-- thumb_image: /uploads/gallery/Casa11.jpeg
-  large_image: /uploads/gallery/thumbs/Casa11.jpeg
+- thumb_image: /uploads/gallery/thumbs/Casa11.jpeg
+  large_image: /uploads/gallery/Casa11.jpeg
   alt: Telhas Cinza
 - thumb_image: /uploads/gallery/thumbs/Churra_Forno_Fogao_05-03-16.jpg
   large_image: /uploads/gallery/Churra_Forno_Fogao_05-03-16.jpg
@@ -76,9 +76,6 @@
 - thumb_image: /uploads/gallery/thumbs/Piso_Porcelanato (5).png
   large_image: /uploads/gallery/Piso_Porcelanato (5).png
   alt: Piso Porcelanato
-- thumb_image: /uploads/gallery/thumbs/Pisos_Intertravados.jpg
-  large_image: /uploads/gallery/Pisos_Intertravados.jpg
-  alt: Pisos de Concreta Intervalados
 - thumb_image: /uploads/gallery/thumbs/Pisos_Revestimentos.jpg
   large_image: /uploads/gallery/Pisos_Revestimentos.jpg
   alt: Piso revestimentos
