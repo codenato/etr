@@ -1,6 +1,6 @@
 - icon: icon-roof
   title: Telhas
-  description: Telhas de Concreto; Telhas Esmaltadas; Cerâmica Vermelha; Telhas Sanduíche (Termoscusticas); Telhas de Porcelanato; Telhas de Vidro; Acessórios para telhado
+  description: Telhas de Concreto; Telhas Esmaltadas; Cerâmica Vermelha/Marfim/Mesclada; Telhas Sanduíche (Termoacústicas); Telhas de Porcelanato; Telhas Translúcidas; Telhas Shingle; Acessórios para telhado
 
 - icon: icon-grill
   title: Churrasqueiras, Fogões e Forno
@@ -8,7 +8,7 @@
 
 - icon: icon-solar
   title: Aquecedor Solar
-  description: Center Sol (Piscina e Residencial); Tégula (Residencial); À Vácuo (Tubos)
+  description: Residencial e Piscinas; À Vácuo (Tubos); Convencional com Placas e Sistema Acoplado - Tubos à Vacuo
 
 - icon: icon-reserv
   title: Caixas D'água
