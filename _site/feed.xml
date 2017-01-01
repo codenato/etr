@@ -3,10 +3,10 @@
   <channel>
     <title>Espaço Telhas Rondon | Uberlândia</title>
     <description>Espaço Telhas Rondon</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Jan 2017 14:01:32 +0100</pubDate>
-    <lastBuildDate>Sun, 01 Jan 2017 14:01:32 +0100</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 01 Jan 2017 14:09:23 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2017 14:09:23 +0100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
   </channel>
