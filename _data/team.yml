@@ -1,4 +1,14 @@
 - name: Telha de Concreto
   image: /uploads/casa1.png
 - name: Telha Prime
-  image:
+  image: /uploads/telhas-concreto-1.jpg
+- name: Piso Porcelanato
+  image: /uploads/piso-porcelanato-3.jpg
+- name: Telha BIg
+  image: /uploads/telhas-concreto-3.jpg
+- name: Telha Prime Vermelho Tinto
+  image: /uploads/telhas-tegula-5.png
+- name: Telha Tradição Marfim Palha
+  image: /uploads/telhas-tegula-6.png
+- name: Telha de Concreto
+  image: /uploads/casa3.png
