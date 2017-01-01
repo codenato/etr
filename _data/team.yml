@@ -1,2 +1,4 @@
-- name: Telha Tradição
-  image: Telha Tradiçao Cinza Perola.jpg
+- name: Telha de Concreto
+  image: /uploads/casa1.png
+- name: Telha Prime
+  image:
