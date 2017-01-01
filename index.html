@@ -157,7 +157,7 @@ layout: default
     {% for member in site.data.team %}
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img src="/img/destaques/{{ member.image }}" alt="{{ member.name }}">
+                <img src="{{ member.image }}" alt="{{ member.name }}">
                 <h4>{{ member.name }}</h4>
             </div>
             <div class="expandable-box-bottom">
@@ -200,9 +200,9 @@ layout: default
     <h2 class="section-title">Galeria</h2>
 
     {% for images in site.data.gallery %}
-        <a href="/img/gallery/large/{{ images.large_image }}" class="gallery-item expandable-box image-link">
+        <a href="{{ images.large_image }}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
-                <img src="/img/gallery/thumb/{{ images.thumb_image }}" alt="{{ images.alt }}">
+                <img src="{{ images.thumb_image }}" alt="{{ images.alt }}">
             </div>
             <div class="expandable-box-bottom">
                 <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
