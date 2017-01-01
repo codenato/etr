@@ -20,7 +20,7 @@
   large_image:
   alt: Churrasqueiras
 - thumb_image: /uploads/churrasqueira-media-tijolo.jpg
-  large_image:
+  large_image: /uploads/churrasqueira-media-tijolo.jpg
   alt: Churrasqueiras Tijolo
 - thumb_image: /uploads/churrasqueira-prime.jpg
   large_image: /uploads/churrasqueira-prime.jpg
@@ -29,10 +29,10 @@
   large_image: /uploads/churrasqueira-quadrada.jpg
   alt: Churrasqueira Quadrada
 - thumb_image: /uploads/churrasqueira-balcao.jpg
-  large_image:
+  large_image: /uploads/churrasqueira-balcao.jpg
   alt: Churrasqueira Balcão
 - thumb_image: /uploads/churrasqueira-tijolinho.jpg
-  large_image:
+  large_image: /uploads/churrasqueira-tijolinho.jpg
   alt: Churrasqueira Tijolinho
 - thumb_image: /uploads/churrasqueirafornofogão.jpg
   large_image:
