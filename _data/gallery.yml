@@ -17,7 +17,7 @@
   large_image: /uploads/churrasqueira--iglu.jpg
   alt: Churrasqueira Iglu
 - thumb_image: /uploads/churrasqueira-1.jpg
-  large_image:
+  large_image: /uploads/churrasqueira-1.jpg
   alt: Churrasqueiras
 - thumb_image: /uploads/churrasqueira-media-tijolo.jpg
   large_image: /uploads/churrasqueira-media-tijolo.jpg
@@ -35,19 +35,19 @@
   large_image: /uploads/churrasqueira-tijolinho.jpg
   alt: Churrasqueira Tijolinho
 - thumb_image: /uploads/churrasqueirafornofogão.jpg
-  large_image:
+  large_image: /uploads/churrasqueirafornofogão.jpg
   alt: Churrasqueira Forno-fogão
 - thumb_image: /uploads/cobogo-rustico.jpg
-  large_image:
+  large_image: /uploads/cobogo-rustico.jpg
   alt: Cogobo Rústico
 - thumb_image: /uploads/cobogo-rustico2.jpg
-  large_image:
+  large_image: /uploads/cobogo-rustico2.jpg
   alt: Cobogo Rústico
 - thumb_image: /uploads/cobogo6.jpg
   large_image: /uploads/cobogo6.jpg
   alt: Cogobo
 - thumb_image: /uploads/cobogo8.jpg
-  large_image:
+  large_image: /uploads/cobogo8.jpg
   alt: Cogobo
 - thumb_image: /uploads/cobogo13.jpg
   large_image: /uploads/cobogo13.jpg
@@ -65,7 +65,7 @@
   large_image: /uploads/fogao-forno-churrasqueira--balcao-1.jpg
   alt: Churrasqueira Balção
 - thumb_image: /uploads/garrafeiras1.jpg
-  large_image:
+  large_image: /uploads/garrafeiras1.jpg
   alt: Garrafeiras
 - thumb_image: /uploads/piso-porcelanato-1.jpg
   large_image: /uploads/piso-porcelanato-1.jpg
@@ -91,14 +91,11 @@
 - thumb_image: /uploads/reservatorio-tubular.jpg
   large_image: /uploads/reservatorio-tubular.jpg
   alt: Reservatório Tubular
-- thumb_image: /uploads/reservatorios-taça-tubular.jpg
-  large_image:
-  alt: Reservatório Taça Tubular
 - thumb_image: /uploads/sanduiche-2.jpg
-  large_image:
+  large_image: /uploads/sanduiche-2.jpg
   alt: Sanduiche
 - thumb_image: /uploads/sanduiche.jpg
-  large_image:
+  large_image: /uploads/sanduiche.jpg
   alt: Sanduiche
 - thumb_image: /uploads/telha-de-vidro.jpg
   large_image:
