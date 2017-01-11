@@ -33,6 +33,10 @@
     }
     ul {
         @extend %no-bullet;
+
+        li {
+          color: white;
+        }
     }
     table {
         @extend %align-left;
