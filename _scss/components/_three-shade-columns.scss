@@ -35,7 +35,9 @@
         @extend %no-bullet;
 
         li {
-          color: white;
+          a {
+            color: white;
+          }
         }
     }
     table {
