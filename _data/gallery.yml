@@ -122,7 +122,7 @@
   large_image: /uploads/acessorios-para-telhado-4.jpg
   alt: Passarinheira
 - thumb_image: /uploads/acessorios-para-telhado-5.jpg
-  large_image:
+  large_image: /uploads/acessorios-para-telhado-5.jpg
   alt:
 - thumb_image: /uploads/concreto.jpg
   large_image: /uploads/concreto.jpg
@@ -131,8 +131,8 @@
   large_image: /uploads/pisos-16-faces.jpg
   alt: Piso Inter travado
 - thumb_image: /uploads/pisos-retangular.jpg
-  large_image:
+  large_image: /uploads/pisos-retangular.jpg
   alt:
 - thumb_image: /uploads/reservatorio-tubular.jpg
-  large_image:
+  large_image: /uploads/reservatorio-tubular.jpg
   alt: Reservatório
