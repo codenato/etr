@@ -18,10 +18,6 @@
   title: Reservatórios Metálicos
   description: Tipo Taça; Tubular Alta Reta; Montado no local; Tanque Aéreo para Combustível; Bebedouros para Gado
 
-- icon: icon-floor
-  title: Pisos Rústicos / Concreto
-  description: Intertravados; Decorados; Piscina; Porcelanato
-
-- icon: icon-hollow
-  title: Elemento Vazado e Cobogós
-  description: Louças; Cerâmica
+- icon: icon-solar
+  title: Energia solar 
+  description: Fotovoltaica
