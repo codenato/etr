@@ -49,8 +49,18 @@ layout: default
         <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
         <h3>Fale Conosco</h3>
         <ul>
-            {% if site.contact.phone %}<li> <a href="javascript:void(0)">{{ site.contact.phone }}</a> <svg width="16" height="16"><use xlink:href="#icon-whatsapp"></use></svg></li>{% endif %}
-            {% if site.contact.email %}<li>{{ site.contact.email }}</li>{% endif %}
+            {% if site.contact.phone %}
+                <li> 
+                    <a href="javascript:void(0)">
+                        <small>{{ site.contact.phone }}</small>
+                    </a> 
+                    <svg width="16" height="16"><use xlink:href="#icon-whatsapp"></use></svg>
+                </li>
+            {% endif %}
+            
+            {% if site.contact.email %}
+                <li>{{ site.contact.email }}</li>
+            {% endif %}
         </ul>
     </div>
     <div class="col-sm-4">
