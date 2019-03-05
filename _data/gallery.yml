@@ -16,15 +16,9 @@
 - thumb_image: /uploads/gallery/thumbs/Churrasqueira + Iglu.jpg
   large_image: /uploads/gallery/Churrasqueira + Iglu.jpg
   alt: Churrasqueira Iglu
-- thumb_image: /uploads/gallery/thumbs/Churrasqueira 1.jpg
-  large_image: /uploads/gallery/Churrasqueira 1.jpg
-  alt: Churrasqueiras
 - thumb_image: /uploads/gallery/thumbs/Churrasqueira Media Tijolo.jpg
   large_image: /uploads/gallery/Churrasqueira Media Tijolo.jpg
   alt: Churrasqueiras Tijolo
-- thumb_image: /uploads/gallery/thumbs/Churrasqueira Prime.jpg
-  large_image: /uploads/gallery/Churrasqueira Prime.jpg
-  alt: Churrasqueira Prime
 - thumb_image: /uploads/gallery/thumbs/Churrasqueira Quadrada.jpg
   large_image: /uploads/gallery/Churrasqueira Quadrada.jpg
   alt: Churrasqueira Quadrada
@@ -37,45 +31,9 @@
 - thumb_image: /uploads/gallery/thumbs/Churrasqueira+Forno+Fogão.jpg
   large_image: /uploads/gallery/Churrasqueira+Forno+Fogão.jpg
   alt: Churrasqueira Forno-fogão
-- thumb_image: /uploads/gallery/thumbs/Cobogo rustico.jpg
-  large_image: /uploads/gallery/Cobogo rustico.jpg
-  alt: Cogobo Rústico
-- thumb_image: /uploads/gallery/thumbs/Cobogo rustico2.jpg
-  large_image: /uploads/gallery/Cobogo rustico2.jpg
-  alt: Cobogo Rústico
-- thumb_image: /uploads/gallery/thumbs/Cobogo6.jpg
-  large_image: /uploads/gallery/Cobogo6.jpg
-  alt: Cogobo
-- thumb_image: /uploads/gallery/thumbs/Cobogo8.jpg
-  large_image: /uploads/gallery/Cobogo8.jpg
-  alt: Cogobo
-- thumb_image: /uploads/gallery/thumbs/Cobogo13.jpg
-  large_image: /uploads/gallery/Cobogo13.jpg
-  alt: Cobogo na Cama
-- thumb_image: /uploads/gallery/thumbs/Cobogo24.jpg
-  large_image: /uploads/gallery/Cobogo24.jpg
-  alt: Cobogo
-- thumb_image: /uploads/gallery/thumbs/Cobogos.jpg
-  large_image: /uploads/gallery/Cobogos.jpg
-  alt:
-- thumb_image: /uploads/gallery/thumbs/Cobogos2.jpg
-  large_image: /uploads/gallery/Cobogos2.jpg
-  alt:
 - thumb_image: /uploads/gallery/thumbs/Fogao_Forno_Churrasqueira + balcao 1.jpg
   large_image: /uploads/gallery/Fogao_Forno_Churrasqueira + balcao 1.jpg
   alt: Churrasqueira Balção
-- thumb_image: /uploads/gallery/thumbs/Garrafeiras1.jpg
-  large_image: /uploads/gallery/Garrafeiras1.jpg
-  alt: Garrafeiras
-- thumb_image: /uploads/gallery/thumbs/Piso_Porcelanato (1).jpg
-  large_image: /uploads/gallery/Piso_Porcelanato (1).jpg
-  alt: Piso Porcelanato
-- thumb_image: /uploads/gallery/thumbs/Piso_Porcelanato (4).png
-  large_image: /uploads/gallery/Piso_Porcelanato (4).png
-  alt: Piso Porcelanato
-- thumb_image: /uploads/gallery/thumbs/Piso_Porcelanato (5).png
-  large_image: /uploads/gallery/Piso_Porcelanato (5).png
-  alt: Piso Porcelanato
 - thumb_image: /uploads/gallery/thumbs/Pisos_Revestimentos.jpg
   large_image: /uploads/gallery/Pisos_Revestimentos.jpg
   alt: Piso revestimentos
@@ -127,21 +85,12 @@
 - thumb_image: /uploads/concreto.jpg
   large_image: /uploads/concreto.jpg
   alt: Tégula
-- thumb_image: /uploads/pisos-16-faces.jpg
-  large_image: /uploads/pisos-16-faces.jpg
-  alt: Piso Inter travado
-- thumb_image: /uploads/pisos-retangular.jpg
-  large_image: /uploads/pisos-retangular.jpg
-  alt:
 - thumb_image: /uploads/reservatorio-tubular.jpg
   large_image: /uploads/reservatorio-tubular.jpg
   alt: Reservatório
 - thumb_image: /uploads/007-1.jpg
   large_image: /uploads/007.jpg
   alt: Energia Solar
-- thumb_image: /uploads/ec-etr-revenda-1.jpg
-  large_image: /uploads/ec-etr-revenda.jpg
-  alt:
 - thumb_image: /uploads/maquete-1.jpg
   large_image: /uploads/maquete.jpg
   alt:

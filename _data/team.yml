@@ -2,8 +2,6 @@
   image: /uploads/Casa1.png
 - name: Telha Prime
   image: /uploads/Telhas Concreto (1).jpg
-- name: Piso Porcelanato
-  image: /uploads/Piso_Porcelanato (3).jpg
 - name: Telha BIg
   image: /uploads/Telhas Concreto (3).jpg
 - name: Telha Prime Vermelho Tinto
@@ -34,5 +32,3 @@
   image: /uploads/Caixa dagua.jpg
 - name: Caixa dagua
   image: /uploads/Caixa dagua1.jpg
-- name: Caixa dagua
-  image: /uploads/Caixa dagua2.jpg
