@@ -19,7 +19,7 @@ layout: default
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
           <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg> Entre em contato</h3>
           <span class="contact-form-result"></span>
-            <form id="contact-form" action="/success.html" method="post">
+            <form id="contact-form" action="https://formspree.io/thiagoroque@espacotelhasrondon.com.br" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Nome" required>
                 </div>
@@ -33,8 +33,8 @@ layout: default
                     <textarea name="comments" placeholder="Mensagem" required></textarea>
                 </div>
                 <div class="hidden">
-                <input type="hidden" name="_to" value="thiagoroque@espacotelhasrondon.com.br">
-                <input type="text" id="template-contactform-botcheck" name="_gotcha" value="" class="sm-form-control" />
+                <input type="hidden" name="_replyto" value="thiagoroque@espacotelhasrondon.com.br">
+                <!-- <input type="text" id="template-contactform-botcheck" name="_gotcha" value="" class="sm-form-control" /> -->
               </div>
                 <input type="submit" onclick="go(event)" class="btn btn-default" value="Enviar">
             </form>
